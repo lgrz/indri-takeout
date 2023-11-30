@@ -1,0 +1,3 @@
+[submodule "indri"]
+	path = indri
+	url = git@github.com:lgrz/indri.git

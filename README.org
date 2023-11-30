@@ -1,0 +1,9 @@
+
+* Indri In-N-Out
+
+The drive through version:
+
+* `BuildIndex` segfaults with `O3`
+* Missing object directories
+
+Clone this and run `build.sh`
